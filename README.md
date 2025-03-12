@@ -8,6 +8,10 @@ This application processes a PDF of "The Gift of the Magi" by O. Henry, extracts
 1. Generate a comprehensive summary of the story
 2. Answer questions about the story using a RAG (Retrieval-Augmented Generation) system
 
+## Demo
+
+https://github.com/user-attachments/assets/af5feacc-41ff-4bbf-987f-428d0fdccac8
+
 ## Features
 
 - PDF processing with OCR (Optical Character Recognition)
